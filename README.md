@@ -10,3 +10,5 @@ With each level offering new tests and enemies, players are pushed to their limi
 The journey of developing "Shoot-the-Foe" has been an enriching experience, exploring Python3 and Pygame functionalities to overcome various challenges. I'm grateful to "codewithrush" for their invaluable guidance, which has been instrumental in bringing this project to life.
 
 "Shoot-the-Foe" comes to fruition through tools like VS Code as the code editor, offering players an engaging gaming experience rooted in creativity. To embark on this adventure, ensure Pygame and Puthon are installed on your system.
+
+PS : Make sure you have installed Pygame and Python in your system. Then open the folder 'Shoot-the-Foe' in VS code editor to run the game.
